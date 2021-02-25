@@ -1,0 +1,10 @@
+h1 {
+    background-color:grey;
+    border: 1px solid;
+    display:inline;
+}
+
+span {
+    background-color: rgb(211, 35, 152);
+    display:block;
+} 
